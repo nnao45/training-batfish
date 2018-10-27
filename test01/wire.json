@@ -6,8 +6,18 @@
         "interfaceName": "GigabitEthernet0/0"
       },
       "node2": {
+        "hostname": "dev-test-host01",
+        "interfaceName": "eth0"
+      }
+    },
+    {
+      "node1": {
         "hostname": "dev-test-sw02",
-        "interfaceName": "GigabitEthernet0/1"
+        "interfaceName": "GigabitEthernet0/0"
+      },
+      "node2": {
+        "hostname": "dev-test-host02",
+        "interfaceName": "eth0"
       }
     },
     {
