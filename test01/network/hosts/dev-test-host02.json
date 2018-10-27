@@ -1,0 +1,11 @@
+{
+	"hostname" : "dev-test-host02",
+	"iptablesFile" : "iptables/host1.iptables",
+	"hostInterfaces" : {
+		"eth0" : {
+			"name": "eth0",
+      "prefix" : "172.16.1.100/24",
+      "gateway": "172.16.1.1"
+		}
+	}
+
