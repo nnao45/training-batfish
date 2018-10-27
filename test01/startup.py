@@ -39,4 +39,3 @@ def display_html(df):
                 .format(get_html)
                 .set_properties(
                 **{'text-align': 'left', 'vertical-align': 'top'}))
-

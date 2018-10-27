@@ -4,8 +4,8 @@
 	"hostInterfaces" : {
 		"eth0" : {
 			"name": "eth0",
-      "prefix" : "172.16.0.100/24",
+      "prefix" : "172.16.0.10/24",
       "gateway": "172.16.0.1"
 		}
 	}
-
+}

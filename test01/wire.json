@@ -6,7 +6,7 @@
     "node2interface" : "eth0"
   },
   {
-    "node1" : "dev-test-sw01",
+    "node1" : "dev-test-sw02",
     "node1interface" : "GigabitEthernet0/0",
     "node2" : "dev-test-host02",
     "node2interface" : "eth0"
