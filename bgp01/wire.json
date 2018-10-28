@@ -1,0 +1,26 @@
+[
+  {
+    "node1" : "dev-test-sw01",
+    "node1interface" : "GigabitEthernet0/0",
+    "node2" : "dev-test-host01",
+    "node2interface" : "eth0"
+  },
+  {
+    "node1" : "dev-test-sw02",
+    "node1interface" : "GigabitEthernet0/0",
+    "node2" : "dev-test-host02",
+    "node2interface" : "eth0"
+  },
+  {
+    "node1" : "dev-test-sw01",
+    "node1interface" : "GigabitEthernet1/0",
+    "node2" : "dev-test-sw02",
+    "node2interface" : "GigabitEthernet1/0"
+  },
+  {
+    "node1" : "dev-test-sw01",
+    "node1interface" : "GigabitEthernet2/0",
+    "node2" : "dev-test-sw02",
+    "node2interface" : "GigabitEthernet2/0"
+  }
+]
