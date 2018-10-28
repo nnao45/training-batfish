@@ -1,0 +1,1 @@
+{"hostname": "dev-test-host03", "hostInterfaces": {"eth0": {"name": "eth0", "prefix": "172.16.2.10/24", "gateway": "172.16.2.1"}}}
